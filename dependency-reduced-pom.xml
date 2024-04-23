@@ -4,7 +4,7 @@
   <groupId>org.eadge</groupId>
   <artifactId>extractpdfexcel</artifactId>
   <name>Extract-Pdf-Excel</name>
-  <version>0.1</version>
+  <version>0.2</version>
   <description>Extract data from pdf, and convert to excel.</description>
   <developers>
     <developer>
@@ -92,8 +92,8 @@
     </plugins>
   </build>
   <properties>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
   </properties>
 </project>
 
